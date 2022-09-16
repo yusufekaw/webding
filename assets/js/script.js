@@ -39,7 +39,7 @@ $(document).ready(function() {
     new WOW().init();
 
     // Set the date we're counting down to
-    var countDownDate = new Date("Apr 12, 2020 08:00:00").getTime();
+    var countDownDate = new Date("Sept 25, 2022 08:00:00").getTime();
 
     // Update the count down every 1 second
     var x = setInterval(function() {
